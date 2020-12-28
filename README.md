@@ -1,5 +1,4 @@
-# Chessboard
- Chessboard new
+#ChessboardJS
 
 A responsive mobile-first javascript chessboard library.
 
